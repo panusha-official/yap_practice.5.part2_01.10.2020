@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="xml">
+</Property><Property Name="Solution File" Value="C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml.suo">
+</Property><Property Name="Date" Value="10 декабря 2010 г.">
+</Property><Property Name="Time" Value="10:02">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="xml.sln" Description="File successfully backed up as C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\Backup\xml.sln">
+</Event><Event ErrorLevel="0" Project="" Source="xml.suo" Description="File successfully backed up as C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\Backup\xml.suo">
+</Event><Event ErrorLevel="0" Project="xml" Source="xml\xml.csproj" Description="Project file successfully backed up as C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\Backup\xml\xml.csproj">
+</Event><Event ErrorLevel="0" Project="xml" Source="xml\Program.cs" Description="File successfully backed up as C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\Backup\xml\Program.cs">
+</Event><Event ErrorLevel="0" Project="xml" Source="xml\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\Backup\xml\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="xml" Source="xml\ShoppingCartltem.cs" Description="File successfully backed up as C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\Backup\xml\ShoppingCartltem.cs">
+</Event><Event ErrorLevel="0" Project="xml" Source="xml\xml.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="xml" Source="xml\xml.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="xml.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="xml.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="xml" Source="xml\xml.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

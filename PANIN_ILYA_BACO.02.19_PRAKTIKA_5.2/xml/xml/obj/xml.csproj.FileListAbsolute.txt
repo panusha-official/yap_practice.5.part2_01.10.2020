@@ -1,0 +1,5 @@
+C:\Documents and Settings\Sergey\Desktop\Лекция 5\code2\xml\xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sergey\Desktop\Лекция 5\code2\xml\xml\bin\Debug\xml.exe
+C:\Documents and Settings\Sergey\Desktop\Лекция 5\code2\xml\xml\bin\Debug\xml.pdb
+C:\Documents and Settings\Sergey\Desktop\Лекция 5\code2\xml\xml\obj\Debug\xml.exe
+C:\Documents and Settings\Sergey\Desktop\Лекция 5\code2\xml\xml\obj\Debug\xml.pdb

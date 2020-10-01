@@ -1,0 +1,5 @@
+C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml\obj\Debug\xml.exe
+C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml\obj\Debug\xml.pdb
+C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml\bin\Debug\xml.exe
+C:\Users\Sergey\Desktop\Лекции 3 курс\Лекция 5\code2\xml\xml\bin\Debug\xml.pdb
